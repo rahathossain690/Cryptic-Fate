@@ -1,0 +1,25 @@
+If we are going to say that a given program thinks like a human, we must have some way of
+determining how humans think. We need to get inside the actual workings of human minds.
+There are three ways to do this: through introspection—trying to catch our own thoughts as
+they go by; through psychological experiments—observing a person in action; and through
+brain imaging—observing the brain in action. Once we have a sufficiently precise theory of
+the mind, it becomes possible to express the theory as a computer program. If the program’s
+input–output behavior matches corresponding human behavior, that is evidence that some of
+the program’s mechanisms could also be operating in humans. For example, Allen Newell
+and Herbert Simon, who developed GPS, the “General Problem Solver” (Newell and Simon,
+1961), were not content merely to have their program solve problems correctly. They were
+more concerned with comparing the trace of its reasoning steps to traces of human subjects
+COGNITIVE SCIENCE solving the same problems. The interdisciplinary field of cognitive science brings together
+computer models from AI and experimental techniques from psychology to construct precise
+and testable theories of the human mind.
+Cognitive science is a fascinating field in itself, worthy of several textbooks and at least
+one encyclopedia (Wilson and Keil, 1999). We will occasionally comment on similarities or
+differences between AI techniques and human cognition. Real cognitive science, however, is
+necessarily based on experimental investigation of actual humans or animals. We will leave
+that for other books, as we assume the reader has only a computer for experimentation.
+In the early days of AI there was often confusion between the approaches: an author
+would argue that an algorithm performs well on a task and that it is therefore a good model
+of human performance, or vice versa. Modern authors separate the two kinds of claims;
+this distinction has allowed both AI and cognitive science to develop more rapidly. The two
+fields continue to fertilize each other, most notably in computer vision, which incorporates
+neurophysiological evidence into computational models.
